@@ -1,5 +1,5 @@
 body {
-  background-color: #184E77;
+  background-image: linear-gradient(#99D98C, #34A0A4);
 }
 
 a{
@@ -13,26 +13,41 @@ a:active{
 a:hover{
   color: #99D98C;
 }
-.nav{
+nav{
   background-color: #1A759F;
   row-fill: #1A759F;
   margin: auto;
   text-align: center;
   width: 50%;
   border: 0px;
-  padding: 20px;
+  padding-left: 120px;
+  padding-right: 120px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   max-length: 1000px;
-}
-
-h1, p{
-  text-align: center;
 }
 
 h3{
   text-align: center;
 }
 
+#title{
+  text-align: center;
+  font-family: "nirmala ui", css;
+}
 
+p{
+  text-align: center;
+  font-family: "nirmala ui", css;
+}
+
+
+.headphones{
+  position: center;
+  width: 200px;
+  height: 200px;
+  background-color: #168AAD;
+}
 /* 
 https://coolors.co/palette/d9ed92-b5e48c-99d98c-76c893-52b69a-34a0a4-168aad-1a759f-1e6091-184e77
 */
