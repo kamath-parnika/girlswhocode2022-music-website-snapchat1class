@@ -1,4 +1,38 @@
-html, body {
-  height: 100%;
-  width: 100%;
+body {
+  background-color: #184E77;
 }
+
+a{
+  color: #D9ED92;
+}
+
+a:active{
+  color: #99D98C;
+}
+
+a:hover{
+  color: #99D98C;
+}
+.nav{
+  background-color: #1A759F;
+  row-fill: #1A759F;
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  border: 0px;
+  padding: 20px;
+  max-length: 1000px;
+}
+
+h1, p{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+
+/* 
+https://coolors.co/palette/d9ed92-b5e48c-99d98c-76c893-52b69a-34a0a4-168aad-1a759f-1e6091-184e77
+*/
